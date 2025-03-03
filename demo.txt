@@ -7,8 +7,12 @@ jinhha
 
 ghiosbxhghsgh
 
+<<<<<<< HEAD
 git hscvagvcgav
 
 sign up testing 001
 sign up testing 002
 sign up testing 003
+=======
+hey buy
+>>>>>>> 2caec26192f1b0fcd7c22d9f20343aa93170c9a5
